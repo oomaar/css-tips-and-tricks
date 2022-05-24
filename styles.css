@@ -1,0 +1,14 @@
+* {
+  background: #125522;
+  color: #fff;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
